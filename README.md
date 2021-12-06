@@ -30,7 +30,3 @@
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=AnonC0DER.AnonC0DER?)
 
 ---
-### Experiences
-
-<img src="https://img.icons8.com/dusk/64/000000/python.png"/>  <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-html-responsive-web-design-justicon-lineal-color-justicon.png"/> <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-js-file-file-type-justicon-lineal-color-justicon.png"/><img src="https://img.icons8.com/color/64/000000/redis.png"/>

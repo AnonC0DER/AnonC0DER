@@ -8,7 +8,7 @@
 <br>
 - 🐍 I'm working on back-end by django 
 - 🌱 I’m learning Python REST APIs and Postgresql 
-- 💬 Ask me about python, django, redis, all python telegram libraries and a little data science
+- 💬 Ask me about python, django, redis, all python telegram libraries
 
 ---
 
@@ -20,6 +20,7 @@
 <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/48/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-5.png"/></a>
 
 ---
+[Linkedin](https://www.linkedin.com/in/hesam-norin/)
 
 ![Code Time](https://img.shields.io/badge/Code%20Time-6120%20hrs-black?style=for-the-badge&logo=appveyor)
 <br>

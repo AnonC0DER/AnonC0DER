@@ -7,7 +7,7 @@
 **At the moment**, 
 <br>
 - 🐍 I'm working on back-end by django 
-- 🌱 I’m learning Python REST APIs and Postgresql 
+- 🌱 I’m learning Django rest framework and Postgresql 
 - 💬 Ask me about python, django, redis, all python telegram libraries
 
 ---

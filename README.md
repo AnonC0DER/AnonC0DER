@@ -33,4 +33,3 @@
 ---
 ![Screenshot](/img/error.png) <br>
 ![Screenshot](/img/notepad.gif)
-![Screenshot](/img/noframes.gif)

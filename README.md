@@ -6,16 +6,17 @@
 
 **At the moment**, 
 <br>
-- 🐍 I'm working on back-end by django 
-- 🌱 I’m learning Django rest framework and Postgresql 
-- 💬 Ask me about python, django, redis, all python telegram libraries
+- 🐍 I'm working on back-end using django 
+- 🌱 I’m learning Django rest framework and Postgresql
+- 💬 Ping me about whatever interesting in computers
 
+![trophy](https://github-profile-trophy.vercel.app/?username=AnonC0DER&theme=onedark)
 ---
 
 ### ☎ Contact ME 
 <br>
 
-<a href="https://t.me/AnonC0DER"><img src="https://img.icons8.com/dusk/48/000000/telegram-app.png"/></a>
+<a href="https://t.me/HesamN_n"><img src="https://img.icons8.com/dusk/48/000000/telegram-app.png"/></a>
 <a href="mailto:hesam.norin@yahoo.com">
 <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/48/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-5.png"/></a>
 
@@ -28,6 +29,12 @@
 <br>
 [![GitHub AnonC0DER](https://img.shields.io/github/followers/AnonC0DER?label=follow&style=for-the-badge&logo=appveyor)](https://github.com/AnonC0DER)
 <br>
-![Views](https://visitor-badge.laobi.icu/badge?page_id=AnonC0DER.AnonC0DER?)
+![Views](https://profile-counter.glitch.me/AnonC0DER/count.svg)
 
 ---
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+---
+![Screenshot](/img/error.png) <br>
+![Screenshot](/img/notepad.gif)
+![Screenshot](/img/noframes.gif)

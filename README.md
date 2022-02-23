@@ -21,11 +21,7 @@
 <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/48/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-5.png"/></a>
 
 ---
-[Linkedin](https://www.linkedin.com/in/hesam-norin/)
-
-![Code Time](https://img.shields.io/badge/Code%20Time-6120%20hrs-black?style=for-the-badge&logo=appveyor)
-<br>
-![Lines](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80920%20Thousand%20lines%20of%20code-black?style=for-the-badge&logo=appveyor)
+[**Linkedin**](https://www.linkedin.com/in/hesam-norin/)
 <br>
 [![GitHub AnonC0DER](https://img.shields.io/github/followers/AnonC0DER?label=follow&style=for-the-badge&logo=appveyor)](https://github.com/AnonC0DER)
 <br>

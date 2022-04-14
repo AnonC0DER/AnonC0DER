@@ -29,7 +29,6 @@
 
 ---
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 ![Screenshot](/img/error.png) <br>
 ![Screenshot](/img/notepad.gif)

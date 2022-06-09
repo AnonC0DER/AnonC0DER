@@ -6,8 +6,7 @@
 
 **At the moment**, 
 <br>
-- 🐍 I'm working on back-end using django 
-- 🌱 I’m learning Django rest framework and Postgresql
+- 🐍 I'm currently working from home at PRAVsaas
 - 💬 Ping me about whatever interesting in computers
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnonC0DER&theme=onedark)

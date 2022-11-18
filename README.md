@@ -6,7 +6,7 @@
 
 **At the moment**, 
 <br>
-- 🐍 I'm currently working from home at PRAVsaas
+- 🐍 I'm currently looking for a new job
 - 💬 Ping me about whatever interesting in computers
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnonC0DER&theme=onedark)

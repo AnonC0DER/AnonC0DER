@@ -6,7 +6,7 @@
 
 **At the moment**, 
 <br>
-- 🐍 I'm currently looking for a new job
+- 🐍 I'm currently a Back-end Developer at [Hamravesh](https://hamravesh.com/)
 - 💬 Ping me about whatever interesting in computers
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=AnonC0DER&theme=onedark)

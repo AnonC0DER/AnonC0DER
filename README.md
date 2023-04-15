@@ -18,7 +18,7 @@
 ### ☎ Contact ME 
 <br>
 
-<a href="https://t.me/HesamN_n"><img src="https://media.tenor.com/5xrhtEGvLsgAAAAC/telegram-gif.gif" width="60" /></a>
+<a href="https://t.me/HesamN_n"><img src="https://github.com/AnonC0DER/AnonC0DER/raw/main/img/telegram-gif.gif" width="60" /></a>
 <a href="mailto:hesam.norin@yahoo.com">
 
 <img src="https://github.com/AnonC0DER/AnonC0DER/blob/main/img/wannaemailme.gif" width="100" /></a>

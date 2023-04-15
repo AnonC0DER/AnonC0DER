@@ -18,9 +18,10 @@
 ### ☎ Contact ME 
 <br>
 
-<a href="https://t.me/HesamN_n"><img src="https://img.icons8.com/dusk/48/000000/telegram-app.png"/></a>
+<a href="https://t.me/HesamN_n"><img src="https://media.tenor.com/5xrhtEGvLsgAAAAC/telegram-gif.gif" width="60" /></a>
 <a href="mailto:hesam.norin@yahoo.com">
-<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/48/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-5.png"/></a>
+
+<img src="https://github.com/AnonC0DER/AnonC0DER/blob/main/img/wannaemailme.gif" width="100" /></a>
 
 ---
 [**Linkedin**](https://www.linkedin.com/in/hesam-norin/)
@@ -34,3 +35,5 @@
 ---
 ![Screenshot](/img/error.png) <br>
 ![Screenshot](/img/notepad.gif)
+
+<img src="https://github.com/AnonC0DER/AnonC0DER/raw/main/img/rocket2.gif">

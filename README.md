@@ -1,6 +1,9 @@
+<img src="https://github.com/AnonC0DER/AnonC0DER/raw/main/img/nice4.gif" align="right">
 <img src="https://github.com/AnonC0DER/AnonC0DER/raw/main/welcome.png">
 
+
 ### Hey there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://github.com/AnonC0DER/AnonC0DER/raw/main/img/nice2.gif">
 
 ---
 

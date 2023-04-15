@@ -1,4 +1,3 @@
-<img src="https://github.com/AnonC0DER/AnonC0DER/raw/main/img/aeyes.gif" align="right">
 <img src="https://github.com/AnonC0DER/AnonC0DER/raw/main/welcome.png">
 
 
